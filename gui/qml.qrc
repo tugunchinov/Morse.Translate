@@ -1,0 +1,8 @@
+<RCC>
+    <qresource>
+        <file>main.qml</file>
+    </qresource>
+    <qresource>
+        <file>img/arrows.png</file>
+    </qresource>
+</RCC>
